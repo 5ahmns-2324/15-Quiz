@@ -1,36 +1,45 @@
-# Unity2020.3.18f1-README-Template
+# Unity2022.3.9f1-README-Template
 
 ### Projektbeschreibung: 
-Einführung in / Zusammenfassung des Projektes. 
+Erstellung eines Quizzes mit mindestens drei Antwortmöglichkeiten, einem Timer, einem Counter, Audio, farbiges Feedback, einem Weiter Button, der erst erscheint, wenn man die Frage richtig beantwortet hat, Mehrfachantwortmöglichkeiten, randomized Fragen, die Möglichkeit, die Fragen nicht randomized zu machen, randomized Antworten, Bildern und einem Endscreen. 
 
 ### Entwicklungsplattform: 
-(Betriebsystem, Unity Version, Visual Studio Version, verwendete SDKs)
+Windows 11, Unity 2022.3.16f, Visual Studio 2022
 
 ### Zielplattform: 
 WebGL Referenzauflösung (960x600) 
 
 ### Visuelle Einblicke in das Projekt: 
-Screenshots (Konzept, Spielabschnitte), Video (< 100MB, < 3 min)
+--
 
 ### Notwendiges für die Ausführung: 
-z.B.: Installationsprozess, Schritt für Schritt Anweisung, spezielles Packages welches geladen werden muss, etc.  
+Installierter Unity Hub mit Unity Editor in passender Version
 
 ### Drittmaterial: 
-Falls verwendet Fonts, Sounds, Music, Graphics, Materials, Code etc. welches nicht von mir stammt muss hier referenziert werden. 
+IZ-US - Aphex Twin
+Wrong Sound - https://www.youtube.com/watch?v=ZvlvhIpcflA 
 
 ### Anforderungsliste:  
-- [ ] Mercury
-- [x] Venus
-- [x] Earth (Orbit/Moon)
-- [x] Mars
+- [x] Antwortmöglichkeiten
+- [x] Fragen
+- [x] Weiter Button
+- [x] Timer
+- [x] Counter
+- [x] farbiges Feedback
+- [ ] Mehrfachauswahl der Antworten
+- [x] Randomized Questions Button
+- [ ] randomisierte Antworten
+- [x] Bilder
+- [x] Endscreen
+- [x] Audio
 
 ### Limitationen:
-Bitte hier nicht, ich kann nicht programmieren, sondern was wurde im Projekt von den Anforderungen nicht umgesetz. Wo waren die Probleme. 
+Es konnte Aufgrund der Struktur des Quizzes keine Mehrfachantwortmöglichkeiten eingebaut werden. Auch die Antworten konnten aufgrund der Quizstruktur nicht randomisiert werden.
 
 ### Lessons Learned:
-- [ ] Saturn
-- [ ] Uranus
-- [ ] Neptune
-- [ ] Comet Haley
+- [x] Verwendung von Scripts ohne Monobehaviour
+- [x] for Schleifen
+- [x] Farben von Text-Mesh-Pro Buttons per Script verändern
+- [x] Verwendung von Listen
 
-Copyright by you :)
+Copyright by Caro :)
