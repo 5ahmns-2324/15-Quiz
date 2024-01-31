@@ -1,4 +1,4 @@
-# Unity2022.3.9f1-README-Template
+# 15-Quiz
 
 ### Projektbeschreibung: 
 Erstellung eines Quizzes mit mindestens drei Antwortmöglichkeiten, einem Timer, einem Counter, Audio, farbiges Feedback, einem Weiter Button, der erst erscheint, wenn man die Frage richtig beantwortet hat, Mehrfachantwortmöglichkeiten, randomized Fragen, die Möglichkeit, die Fragen nicht randomized zu machen, randomized Antworten, Bildern und einem Endscreen. 
