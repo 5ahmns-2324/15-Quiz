@@ -16,8 +16,8 @@ WebGL Referenzauflösung (960x600)
 Installierter Unity Hub mit Unity Editor in passender Version
 
 ### Drittmaterial: 
-IZ-US - Aphex Twin
-Wrong Sound - https://www.youtube.com/watch?v=ZvlvhIpcflA 
+- IZ-US - Aphex Twin
+- Wrong Sound - https://www.youtube.com/watch?v=ZvlvhIpcflA 
 
 ### Anforderungsliste:  
 - [x] Antwortmöglichkeiten
