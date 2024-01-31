@@ -11,11 +11,6 @@ public class StartScript : MonoBehaviour
     public Button startBtn;
     public Toggle rndm;
     
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
 
     public void StartGame()
     {
@@ -24,9 +19,5 @@ public class StartScript : MonoBehaviour
         rndm.gameObject.SetActive(false);
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+ 
 }

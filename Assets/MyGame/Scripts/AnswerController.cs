@@ -15,14 +15,7 @@ public class AnswerController : MonoBehaviour
     public Button nextQ;
     
     
-   
-
-    void Start()
-    {
-        
-    }
-
-   
+  
 
     public void Maus()
     {

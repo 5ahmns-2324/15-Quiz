@@ -20,10 +20,6 @@ public class QuestionManager : MonoBehaviour
     public AudioSource wrongSound;
     public Sprite[] sprites;
     public Image image;
-   
-
-
-
     public TextMeshProUGUI questionTxt;
 
     private void Start()
@@ -75,6 +71,7 @@ public class QuestionManager : MonoBehaviour
             cM.countdownTime = 0;
             cM.panel.gameObject.SetActive(true);
         }
+        
         questionTxt.text = QnA[currentQuestion].question;
         SetAnswers();
         nextBtn.gameObject.SetActive(false);

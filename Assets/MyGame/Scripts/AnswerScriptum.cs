@@ -29,7 +29,6 @@ public class AnswerScriptum : MonoBehaviour
             Debug.Log("wrong Answer");
         }
 
-
     }
 
 
